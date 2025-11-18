@@ -7,7 +7,7 @@ A minimal, responsive, and user-friendly To-Do List application built using HTML
 
 ### **🌐 Live Demo**
 
-*Hosted here:* **<https://brilliant-pothos-642048.netlify.app/>**
+*Hosted here:* **<https://todo-list-psi-lyart-66.vercel.app/>**
 
 ---
 
